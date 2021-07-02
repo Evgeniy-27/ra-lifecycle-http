@@ -1,0 +1,56 @@
+.task-1 {
+  margin-bottom: 100px;
+}
+
+#root {
+  padding-top: 100px;
+}
+.form-1 {
+  margin: 0 auto;
+  display: flex;
+  width: 800px;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+form input {
+  width: 200px;
+  display: block;
+  height: 30px;
+}
+.button-1 {
+  height: 30px;
+}
+.div-clock {
+  text-align: left;
+  margin: 10px auto;
+  width: 800px;
+  display: flex;
+  }
+.clock {
+  width: 100px;
+  text-align: center;
+  position: relative;
+  margin-right: 20px;
+}
+.timer {
+  border: 1px solid rgb(167, 165, 165);
+  text-align: center;
+  width: 100px;
+  height: 20px;
+  margin-top: 10px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: large;
+}
+
+.clock button {
+position: absolute;
+width: 20px;
+height: 20px;
+top: 0;
+right: 0;
+text-align: center;
+box-sizing: border-box;
+}
